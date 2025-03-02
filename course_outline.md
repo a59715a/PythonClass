@@ -23,28 +23,25 @@
 
 ### 第一週：課程目的、開發環境設置與基礎工具安裝、物件導向基礎
 
-- VS Code 安裝與設置
-- Python 虛擬環境設置(附上虛擬環境建置指令)
-- 介紹 Python 虛擬環境
-- Node.js 環境安裝、設置
-- Postman 安裝與教學
+- 專案結構
+- Python 安裝
+- VS Code 講解、安裝與設置
 - 物件導向基礎 Python Class 、TypeScript Interface ，以狗為例 講解 Schema、屬性 Property、方法 Method
-- API 概念介紹 關係介紹
-- 流程圖方式介紹 前後端關係
+- Python Hello World 測試
 
 ### 第二週：Python 翻譯套件應用
 
 - Python 套件 介紹、安裝和使用
-- googletrans 套件基本功能
-- 異步程式設計基礎
-- 錯誤處理實作
+- googletrans 庫基本功能
+- WebAPI 概念介紹 關係介紹
 
 ### 第三週：FastAPI 基礎與 API 開發
 
-- RESTful API 概念
-- FastAPI 框架基礎(包含 Controller、Service、Repository、Model) 以圖片講解結構
-- 建立第一個 Web API
-- 翻譯 API 串接
+- Postman 安裝與教學
+- 用 Python 建立第一個 Web API
+- 翻譯功能 API 串接
+- 介紹 Python 虛擬環境
+- Python 虛擬環境設置(附上虛擬環境建置指令)
 
 ### 第四週：MSSQL 數據庫整合
 
@@ -52,9 +49,12 @@
 - 基本 SQL 查詢語法
 - 數據庫功能整合到 FastAPI
 - 資料存取 API 實作
+- FastAPI 框架基礎(包含 Controller、Service、Repository)講解結構
+- 將專案調整成 CSR 結構
 
 ### 第五週：React 基礎入門
 
+- Node.js 環境安裝、設置
 - React 基本概念
 - React 開發環境配置
 - 介紹 React 開發檔案結構
@@ -99,3 +99,11 @@
 - Python 爬蟲開發實作 讓學生觀看(同時講解)如何快速開發一個程式
 - Q & A
 
+## 課程檔案規則
+
+請直接產生或檢查檔案不要輸出 在對話框中
+雙語 只有有中文敘述 下(後)面都要附加 英文
+week01 到 week10 的課程內容
+使用 markdown 格式
+其中包含課程概述、章節、課程內容、課程重點、課程練習、課程總結
+課程內容的流程中 除了學術理論外 需要有範例成果程式碼 實作題目(依照範例去改題目請學生寫)
