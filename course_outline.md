@@ -20,16 +20,6 @@
 - 擁有一個完整的專案作品
 
 ## 課程目錄
-### 課程週次連結 Course Week Links
-
-- [第一週：課程目的、開發環境設置與基礎工具安裝、物件導向基礎](course/week01/Content.md)
-  Week 1: Course Purpose, Development Environment Setup and Basic Tool Installation, Object-Oriented Basics
-
-- [第二週：Python 翻譯套件應用](course/week02/Content.md)
-  Week 2: Python Translation Package Application
-
-- [第三週：FastAPI 基礎與 API 開發](course/week03/Content.md)
-  Week 3: FastAPI Basics and API Development
 
 
 ### 第一週：課程目的、開發環境設置與基礎工具安裝、物件導向基礎
